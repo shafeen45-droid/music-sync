@@ -1,0 +1,24 @@
+{
+  "name": "beatsync-live",
+  "version": "1.0.0",
+  "description": "Ultra-low latency real-time synchronized music room for Admin & Listeners with WebRTC & YouTube API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "audio-sync",
+    "webrtc",
+    "youtube-sync",
+    "realtime",
+    "music-player",
+    "vercel",
+    "peerjs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
